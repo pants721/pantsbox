@@ -71,16 +71,16 @@ Pantsbox.config = {
 -- main pantsbox color palette
 ---@class PantsboxPalette
 Pantsbox.palette = {
-    -- dark0_base16 = "#121212",
-    dark0_hard = "#0E1018",
+    dark0_hard = "#121212",
+    -- dark0_hard = "#0E1018",
     dark0 = "#282828",
     dark0_soft = "#32302f",
     dark1 = "#3c3836",
     dark2 = "#504945",
     dark3 = "#665c54",
     dark4 = "#7c6f64",
-    -- light0_base16 = "#ffffd7",
-    light0_hard = "#f9f5d7",
+    light0_hard = "#ffffd7",
+    -- light0_hard = "#f9f5d7",
     light0 = "#fbf1c7",
     light0_soft = "#f2e5bc",
     light1 = "#ebdbb2",
